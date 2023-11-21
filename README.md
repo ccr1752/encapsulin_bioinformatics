@@ -1,2 +1,3 @@
 # encapsulin_bioinformatics
-Analysis of Family 3 Encapsulins - putative saccharide biosynthetic gene cluster (BGC) cargo  
+
+A follow-up project on analysing family 3 encapsulins that were discovered to house putative saccharide biosynthetic gene clusters (BGCs).
