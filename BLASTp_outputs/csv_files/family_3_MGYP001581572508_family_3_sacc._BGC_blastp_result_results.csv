@@ -1,0 +1,51 @@
+Query,Subject,Identity,E-value
+Query_31183,"gb|KKR03299.1| MAG: hypothetical protein UT26_C0004G0001, partial [Microgenomates group bacterium GW2011_GWC1_39_12]",189,2.01484e-108
+Query_31183,tpg|HAM95521.1| hypothetical protein [Candidatus Azambacteria bacterium],175,7.24468e-100
+Query_31183,"gb|KKU21754.1| MAG: hypothetical protein UX33_C0022G0001, partial [Candidatus Azambacteria bacterium GW2011_GWC1_46_13] >gb|KKU37496.1| MAG: hypothetical protein UX51_C0020G0023, partial [Candidatus Azambacteria bacterium GW2011_GWF2_46_32]",175,1.51394e-99
+Query_31183,gb|KKU38529.1| MAG: hypothetical protein UX53_C0029G0010 [Candidatus Azambacteria bacterium GW2011_GWB2_46_37],175,2.45347e-99
+Query_31183,gb|KKU19169.1| MAG: Metalloendopeptidase [Candidatus Azambacteria bacterium GW2011_GWA2_45_90],180,3.06982e-94
+Query_31183,ref|WP_052563977.1| carboxypeptidase regulatory-like domain-containing protein [Candidatus Brocadia sinica] >gb|MBL1168460.1| carboxypeptidase regulatory-like domain-containing protein [Candidatus Brocadia sp. AMX1] >gb|NOG40257.1| carboxypeptidase regulatory-like domain-containing protein [Planctomycetota bacterium] >gb|KXK31749.1| MAG: hypothetical protein UZ01_00818 [Candidatus Brocadia sinica] >dbj|GAN33912.1| hypothetical protein BROSI_A2447 [Candidatus Brocadia sinica JPN1] >dbj|GIK14185.1| MAG: hypothetical protein BroJett002_28920 [Candidatus Brocadia sinica],182,4.25732e-94
+Query_31183,gb|KKU35259.1| MAG: Metalloendopeptidase [Candidatus Azambacteria bacterium GW2011_GWB1_46_27],180,5.20233e-94
+Query_31183,tpg|HBC58891.1| hypothetical protein [Candidatus Azambacteria bacterium] >tpg|HCB36263.1| hypothetical protein [Candidatus Azambacteria bacterium],180,9.6022e-94
+Query_31183,gb|MBI1834117.1| hypothetical protein [Candidatus Andersenbacteria bacterium],173,2.2915e-91
+Query_31183,gb|MBI2120793.1| RHS repeat protein [Parcubacteria group bacterium],171,3.38854e-86
+Query_31183,gb|MDO8231959.1| hypothetical protein [bacterium] >gb|MDO8742382.1| hypothetical protein [bacterium],164,1.12757e-82
+Query_31183,gb|MBI2120799.1| VCBS repeat-containing protein [Parcubacteria group bacterium],159,1.51684e-82
+Query_31183,gb|MDO8574894.1| hypothetical protein [bacterium],157,3.94106e-80
+Query_31183,gb|KKP76336.1| MAG: NHL/RHS/YD repeat protein [Parcubacteria group bacterium GW2011_GWC1_35_21],155,2.26868e-73
+Query_31183,ref|WP_254102380.1| RHS repeat-associated core domain-containing protein [Bradyrhizobium sp. CCGUVB1N3] >gb|MCP3475048.1| hypothetical protein [Bradyrhizobium sp. CCGUVB1N3],150,1.0156e-72
+Query_31183,gb|MBI5357062.1| hypothetical protein [Candidatus Collierbacteria bacterium],146,1.30616e-68
+Query_31183,gb|MCR4307116.1| hypothetical protein [Candidatus Berkelbacteria bacterium],132,4.16556e-68
+Query_31183,gb|MBI5732627.1| hypothetical protein [Candidatus Jorgensenbacteria bacterium],159,1.02711e-67
+Query_31183,gb|KKW19789.1| MAG: YD repeat protein [Parcubacteria group bacterium GW2011_GWA2_51_10],151,6.06913e-64
+Query_31183,gb|MCK9371529.1| hypothetical protein [Candidatus Dojkabacteria bacterium],156,2.08934e-63
+Query_31183,gb|QQG37490.1| MAG: VCBS repeat-containing protein [Candidatus Kaiserbacteria bacterium],152,2.11309e-62
+Query_31183,gb|OGF00054.1| MAG: hypothetical protein A3J05_02390 [Candidatus Doudnabacteria bacterium RIFCSPLOWO2_02_FULL_48_13],146,3.51521e-62
+Query_31183,gb|OGE76656.1| MAG: hypothetical protein A3K05_03035 [Candidatus Doudnabacteria bacterium RIFCSPHIGHO2_01_48_18],146,3.65394e-62
+Query_31183,gb|OGF02107.1| MAG: hypothetical protein A3G07_01970 [Candidatus Doudnabacteria bacterium RIFCSPLOWO2_12_FULL_47_12],146,3.76061e-62
+Query_31183,gb|MBI3074742.1| fibronectin type III domain-containing protein [Parcubacteria group bacterium],146,6.84324e-62
+Query_31183,gb|QGH72420.1| MAG: metalloendopeptidase [Siphoviridae sp. ctpQM7],141,6.97303e-62
+Query_31183,gb|MBI4118588.1| fibronectin type III domain-containing protein [Parcubacteria group bacterium],153,2.66136e-61
+Query_31183,gb|OGZ07224.1| MAG: hypothetical protein A2762_00525 [Candidatus Lloydbacteria bacterium RIFCSPHIGHO2_01_FULL_54_11] >gb|OGZ10563.1| MAG: hypothetical protein A3C93_01975 [Candidatus Lloydbacteria bacterium RIFCSPHIGHO2_02_FULL_54_17] >gb|OGZ14745.1| MAG: hypothetical protein A2948_04590 [Candidatus Lloydbacteria bacterium RIFCSPLOWO2_01_FULL_54_18],146,1.82848e-59
+Query_31183,tpg|HAZ16768.1| hypothetical protein [Candidatus Jacksonbacteria bacterium],113,6.46381e-58
+Query_31183,gb|MBP9669162.1| VCBS repeat-containing protein [Candidatus Paceibacterota bacterium],139,8.9475e-56
+Query_31183,gb|OGZ13424.1| MAG: hypothetical protein A2942_01090 [Candidatus Lloydbacteria bacterium RIFCSPLOWO2_01_FULL_50_20],139,1.24149e-54
+Query_31183,"gb|OHA03990.1| MAG: hypothetical protein A3J58_01645, partial [Candidatus Sungbacteria bacterium RIFCSPHIGHO2_02_FULL_52_23]",140,5.58384e-54
+Query_31183,gb|MDD5696406.1| LamG domain-containing protein [Candidatus Paceibacterota bacterium],109,8.77728e-54
+Query_31183,gb|OGO14671.1| MAG: hypothetical protein A2Z02_02925 [Chloroflexi bacterium RBG_16_48_7],114,4.88895e-50
+Query_31183,gb|MDD5062796.1| hypothetical protein [Candidatus Marinimicrobia bacterium],135,5.3859e-48
+Query_31183,gb|MCL9971949.1| hypothetical protein [Candidatus Paceibacterota bacterium],126,5.57601e-48
+Query_31183,"gb|PIS04710.1| MAG: hypothetical protein COT81_04980, partial [Candidatus Buchananbacteria bacterium CG10_big_fil_rev_8_21_14_0_10_42_9]",142,1.18268e-46
+Query_31183,gb|RJQ34733.1| MAG: hypothetical protein C4556_01950 [Candidatus Parcubacteria bacterium],129,1.02195e-44
+Query_31183,gb|MCH9808453.1| FG-GAP-like repeat-containing protein [Alphaproteobacteria bacterium],138,1.72318e-41
+Query_31183,gb|NCN22248.1| hypothetical protein [Candidatus Falkowbacteria bacterium],104,6.4584e-41
+Query_31183,gb|NTW34476.1| hypothetical protein [Bacteroidota bacterium],103,7.92637e-40
+Query_31183,gb|TAK94508.1| MAG: hypothetical protein EPO05_06260 [Patescibacteria group bacterium],99,2.11668e-38
+Query_31183,gb|ANS02896.1| metalloendopeptidase [uncultured Mediterranean phage uvDeep-CGR0-KM22-C158],93,3.80712e-38
+Query_31183,gb|NTW31491.1| hypothetical protein [Bacteroidota bacterium],90,1.50477e-36
+Query_31183,gb|KKS13332.1| MAG: hypothetical protein UU69_C0008G0017 [Candidatus Magasanikbacteria bacterium GW2011_GWA2_41_55],96,3.98002e-36
+Query_31183,gb|MCP4610647.1| hypothetical protein [Planctomycetota bacterium],90,2.05032e-35
+Query_31183,gb|MBN1692598.1| hypothetical protein [Dehalococcoidales bacterium],91,2.7377e-35
+Query_31183,ref|WP_298975918.1| FG-GAP-like repeat-containing protein [uncultured Roseobacter sp.],109,2.22298e-33
+Query_31183,gb|OGZ57537.1| MAG: hypothetical protein A2728_00380 [Candidatus Spechtbacteria bacterium RIFCSPHIGHO2_01_FULL_38_11],107,1.2099e-31
+Query_31183,gb|KKP97242.1| MAG: hypothetical protein UR99_C0017G0025 [Candidatus Moranbacteria bacterium GW2011_GWD2_36_12],81,1.76003e-31
