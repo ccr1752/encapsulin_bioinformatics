@@ -1,0 +1,51 @@
+Query,Subject,Identity,E-value
+Query_44357,gb|MDA9949240.1| hypothetical protein [Paracoccaceae bacterium],269,0.0
+Query_44357,gb|MBT8233777.1| hypothetical protein [Bacteroidia bacterium],268,0.0
+Query_44357,gb|NND23306.1| hypothetical protein [Acidimicrobiia bacterium],266,0.0
+Query_44357,gb|QGZ17669.1| capsid protein [Pelagibacter phage HTVC023P],265,0.0
+Query_44357,gb|MDB9741884.1| hypothetical protein [Akkermansiaceae bacterium],259,0.0
+Query_44357,dbj|GDX17577.1| hypothetical protein LBMAG05_08730 [Actinomycetes bacterium],253,0.0
+Query_44357,gb|MAR57934.1| hypothetical protein [Rickettsiales bacterium],246,0.0
+Query_44357,gb|MDC3263756.1| hypothetical protein [Porticoccaceae bacterium],237,2.8883e-173
+Query_44357,gb|MAL45606.1| hypothetical protein [Hyphomonas sp.],234,9.38254e-172
+Query_44357,gb|MCL2923695.1| hypothetical protein [Trichodesmium sp. MAG_R04],228,1.65317e-171
+Query_44357,gb|MAJ58179.1| hypothetical protein [Candidatus Pelagibacter sp.],233,2.69409e-170
+Query_44357,dbj|BCV02099.1| MAG: hypothetical protein CM15mV49_670 [uncultured marine virus],231,6.51118e-168
+Query_44357,tpg|HHZ94883.1| hypothetical protein [Flavobacteriales bacterium],232,1.55366e-167
+Query_44357,gb|ASE99978.1| hypothetical protein [uncultured virus],229,6.45368e-166
+Query_44357,gb|MDB4556911.1| hypothetical protein [bacterium],225,9.89416e-166
+Query_44357,gb|MDA1210213.1| Mu-like prophage major head subunit gpT family protein [Bacteroidota bacterium],221,2.51902e-165
+Query_44357,gb|NBW11802.1| hypothetical protein [Caulobacteraceae bacterium],227,3.40131e-165
+Query_44357,gb|MAW12599.1| hypothetical protein [Paracoccaceae bacterium],228,3.92195e-165
+Query_44357,gb|MDA9624151.1| hypothetical protein [Pelagibacteraceae bacterium],229,6.61433e-165
+Query_44357,gb|MDC3331516.1| hypothetical protein [Candidatus Pelagibacter sp.],230,8.26146e-165
+Query_44357,gb|NDG31858.1| hypothetical protein [bacterium],225,2.14295e-164
+Query_44357,gb|MBC8408997.1| Mu-like prophage major head subunit gpT family protein [Paracoccaceae bacterium],227,5.42058e-164
+Query_44357,gb|MDP6770587.1| hypothetical protein [Anaerolineales bacterium],228,5.6559e-164
+Query_44357,gb|ASF00462.1| hypothetical protein [uncultured virus],224,5.93619e-164
+Query_44357,gb|MDH3879825.1| hypothetical protein [Desulfobacterales bacterium],230,7.2864e-164
+Query_44357,tpg|HBR55300.1| hypothetical protein [Flavobacteriaceae bacterium],220,1.01868e-163
+Query_44357,gb|MDC1302872.1| hypothetical protein [Pelagibacterales bacterium],223,2.2842e-163
+Query_44357,dbj|BCV05835.1| MAG: hypothetical protein CM15mV118_310 [uncultured marine virus],224,2.97113e-163
+Query_44357,gb|MBO48275.1| hypothetical protein [Gammaproteobacteria bacterium],224,3.28948e-163
+Query_44357,gb|MBT8233691.1| hypothetical protein [Bacteroidia bacterium],227,3.44778e-163
+Query_44357,gb|MDB4352334.1| hypothetical protein [Porticoccaceae bacterium] >gb|MDB4676149.1| hypothetical protein [Flavobacteriales bacterium] >gb|MDB9910570.1| hypothetical protein [Flavobacteriaceae bacterium],231,4.25152e-163
+Query_44357,gb|RPJ57083.1| MAG: hypothetical protein EHM12_09570 [Dehalococcoidia bacterium],222,5.93491e-163
+Query_44357,gb|MDB4343223.1| hypothetical protein [bacterium],227,6.65278e-163
+Query_44357,gb|MBX0310820.1| hypothetical protein [Sulfurihydrogenibium sp.],225,7.45727e-163
+Query_44357,dbj|BCV03115.1| MAG: hypothetical protein CM15mV61_300 [uncultured marine virus],227,7.92731e-163
+Query_44357,gb|MDB3885980.1| hypothetical protein [Candidatus Pelagibacter sp.] >gb|MDC0647570.1| hypothetical protein [Candidatus Pelagibacter sp.],226,8.74873e-163
+Query_44357,gb|MAU24739.1| hypothetical protein [Chloroflexota bacterium],230,1.46616e-162
+Query_44357,dbj|BCV04387.1| MAG: hypothetical protein CM15mV85_110 [uncultured marine virus],222,4.08695e-162
+Query_44357,gb|MDB4453568.1| hypothetical protein [Pseudomonadales bacterium],226,6.47468e-162
+Query_44357,gb|MDH4011784.1| hypothetical protein [Desulfobacterales bacterium],224,8.17507e-162
+Query_44357,dbj|BCV01722.1| MAG: hypothetical protein CM15mV45_150 [uncultured marine virus],227,2.5824e-161
+Query_44357,gb|QDP65029.1| MAG: hypothetical protein Unbinned4834contig1000_65 [Prokaryotic dsDNA virus sp.],219,2.66034e-161
+Query_44357,tpg|HAA98883.1| hypothetical protein [Alteromonas macleodii],223,2.80133e-161
+Query_44357,gb|MAL09454.1| hypothetical protein [Maricaulis sp.],218,2.81012e-161
+Query_44357,gb|MBP04334.1| hypothetical protein [Euryarchaeota archaeon],220,6.32084e-161
+Query_44357,gb|NBP70357.1| hypothetical protein [Cytophagia bacterium],219,8.37743e-161
+Query_44357,gb|QGZ17840.1| capsid protein [Pelagibacter phage HTVC027P],225,1.51832e-160
+Query_44357,gb|MDB3947259.1| hypothetical protein [Candidatus Pelagibacter sp.],223,2.47024e-160
+Query_44357,gb|MDB4817064.1| hypothetical protein [bacterium],223,3.11886e-160
+Query_44357,gb|REK63572.1| MAG: hypothetical protein DWQ49_02565 [Bacteroidota bacterium],223,4.86382e-160

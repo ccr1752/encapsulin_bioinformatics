@@ -1,0 +1,51 @@
+Query,Subject,Identity,E-value
+Query_25783,gb|MBI4117381.1| hypothetical protein [Parcubacteria group bacterium],264,0.0
+Query_25783,gb|OGG55277.1| MAG: hypothetical protein A3D62_00940 [Candidatus Kaiserbacteria bacterium RIFCSPHIGHO2_02_FULL_49_11],243,0.0
+Query_25783,gb|MCR4333504.1| hypothetical protein [Patescibacteria group bacterium],236,6.57804e-164
+Query_25783,gb|MBI4163089.1| hypothetical protein [Candidatus Aenigmarchaeota archaeon],192,5.47188e-129
+Query_25783,tpg|HII89374.1| hypothetical protein [Candidatus Woesearchaeota archaeon],192,8.90468e-127
+Query_25783,gb|MBL7056788.1| hypothetical protein [Candidatus Woesearchaeota archaeon],187,1.95161e-124
+Query_25783,gb|MBC8495520.1| hypothetical protein [archaeon],186,1.9413e-123
+Query_25783,gb|MBS3128698.1| adenylyltransferase/cytidyltransferase family protein [Candidatus Woesearchaeota archaeon],190,3.41747e-112
+Query_25783,gb|KAI6654645.1| hypothetical protein LOD99_1039 [Oopsacas minuta],169,3.95516e-105
+Query_25783,tpg|HIG95777.1| hypothetical protein [Candidatus Woesearchaeota archaeon],156,1.3232e-102
+Query_25783,gb|MBM3777942.1| hypothetical protein [Acidimicrobiia bacterium],166,3.55073e-102
+Query_25783,ref|WP_132013134.1| hypothetical protein [Hydrogenispora ethanolica] >gb|TCL74147.1| hypothetical protein EDC14_100483 [Hydrogenispora ethanolica],165,4.90847e-101
+Query_25783,gb|MBI5369337.1| hypothetical protein [Planctomycetota bacterium],160,3.04202e-99
+Query_25783,gb|KAH3743656.1| hypothetical protein Pelo_14933 [Pelomyxa schiedti],164,2.50682e-95
+Query_25783,emb|CAH1788495.1| unnamed protein product [Owenia fusiformis],157,4.31907e-94
+Query_25783,gb|RMF75283.1| MAG: hypothetical protein D6738_04140 [Acidobacteriota bacterium],151,3.2567e-92
+Query_25783,emb|CAG5096894.1| Oidioi.mRNA.OKI2018_I69.XSR.g14833.t1.cds [Oikopleura dioica],132,1.54043e-70
+Query_25783,gb|MAG72928.1| hypothetical protein [archaeon],76,2.71563e-46
+Query_25783,emb|CAH1788496.1| unnamed protein product [Owenia fusiformis],73,4.39448e-35
+Query_25783,tpg|HIG96010.1| hypothetical protein [Candidatus Woesearchaeota archaeon],66,1.67585e-33
+Query_25783,gb|RLI35032.1| MAG: hypothetical protein DRO55_05720 [Candidatus Bathyarchaeota archaeon],106,3.12247e-24
+Query_25783,gb|KYH40628.1| MAG: hypothetical protein AYL32_010560 [Candidatus Bathyarchaeota archaeon B26-2],112,9.3693e-24
+Query_25783,gb|MBI3009279.1| hypothetical protein [Candidatus Omnitrophota bacterium],85,1.42941e-23
+Query_25783,tpg|HIE14945.1| hypothetical protein [Candidatus Bathyarchaeota archaeon],112,2.18678e-23
+Query_25783,gb|MBL8162681.1| hypothetical protein [Anaerolineae bacterium],85,1.28924e-22
+Query_25783,tpg|HHV80526.1| hypothetical protein [bacterium],90,3.38403e-22
+Query_25783,gb|QNN22244.1| hypothetical protein HED60_08140 [Planctomycetales bacterium ZRK34],96,2.14017e-21
+Query_25783,gb|MDR0730712.1| hypothetical protein [Treponema sp.],105,2.22728e-21
+Query_25783,gb|MCE2791529.1| hypothetical protein [Blastopirellula sp.],101,3.11443e-21
+Query_25783,gb|MBO7655597.1| hypothetical protein [Kiritimatiellia bacterium],98,3.87901e-21
+Query_25783,gb|KPK47621.1| MAG: hypothetical protein AMK72_08235 [Planctomycetes bacterium SM23_25],92,3.98633e-21
+Query_25783,gb|MDX2022847.1| hypothetical protein [Deltaproteobacteria bacterium],89,4.01038e-21
+Query_25783,gb|MDD4773215.1| hypothetical protein [Eubacteriales bacterium],106,4.60078e-21
+Query_25783,tpg|HIE18819.1| hypothetical protein [Candidatus Bathyarchaeota archaeon],81,4.70382e-21
+Query_25783,"gb|RLI01890.1| MAG: hypothetical protein DRO38_04600, partial [Candidatus Bathyarchaeota archaeon]",83,4.94257e-21
+Query_25783,gb|MCF3653060.1| hypothetical protein [Candidatus Wolframiiraptor gerlachensis],92,5.38334e-21
+Query_25783,gb|MBP5226803.1| hypothetical protein [Kiritimatiellia bacterium],95,5.49634e-21
+Query_25783,gb|MCD6325050.1| hypothetical protein [Candidatus Bathyarchaeota archaeon],83,6.35986e-21
+Query_25783,gb|RJS94243.1| MAG: hypothetical protein CW705_00575 [Candidatus Bathyarchaeota archaeon],79,6.67679e-21
+Query_25783,gb|RJS86567.1| MAG: hypothetical protein CW704_05280 [Candidatus Bathyarchaeota archaeon],83,8.93788e-21
+Query_25783,gb|MBV9480181.1| hypothetical protein [Acidobacteriota bacterium],78,9.75712e-21
+Query_25783,gb|RLI04549.1| MAG: hypothetical protein DRO22_03830 [Candidatus Bathyarchaeota archaeon],83,1.02404e-20
+Query_25783,"gb|KPJ72480.1| MAG: hypothetical protein AMS14_07640, partial [Planctomycetes bacterium DG_20]",88,1.05266e-20
+Query_25783,ref|WP_236817506.1| hypothetical protein [Alicyclobacillus tolerans] >gb|MCF8566702.1| hypothetical protein [Alicyclobacillus tolerans],85,1.26037e-20
+Query_25783,gb|MBC7871933.1| hypothetical protein [Anaerolineae bacterium],74,1.28979e-20
+Query_25783,gb|KAF0183929.1| MAG: phosphomannose isomerase [Hyphomonadaceae bacterium],80,1.3829e-20
+Query_25783,gb|RLG94625.1| MAG: hypothetical protein DRO37_05040 [Candidatus Bathyarchaeota archaeon],84,1.57288e-20
+Query_25783,gb|MBP5320551.1| hypothetical protein [Kiritimatiellia bacterium],98,2.30695e-20
+Query_25783,gb|NLK89128.1| hypothetical protein [Clostridiaceae bacterium],95,2.46392e-20
+Query_25783,ref|WP_146517770.1| hypothetical protein [Stieleria varia],78,2.77131e-20

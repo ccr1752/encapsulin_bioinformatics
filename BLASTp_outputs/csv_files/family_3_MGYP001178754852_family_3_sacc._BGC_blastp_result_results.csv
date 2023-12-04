@@ -1,0 +1,51 @@
+Query,Subject,Identity,E-value
+Query_48925,gb|MAG26832.1| hypothetical protein [Candidatus Pacearchaeota archaeon],391,0.0
+Query_48925,gb|MAR20817.1| hypothetical protein [Flavobacteriales bacterium],395,0.0
+Query_48925,gb|MDP7366798.1| hypothetical protein [Candidatus Paceibacterota bacterium],378,0.0
+Query_48925,gb|MBT4935834.1| hypothetical protein [Candidatus Woesearchaeota archaeon],381,0.0
+Query_48925,gb|MDP6249861.1| hypothetical protein [Candidatus Paceibacterota bacterium],382,0.0
+Query_48925,gb|MDA7495874.1| hypothetical protein [bacterium],396,0.0
+Query_48925,gb|MAR21685.1| hypothetical protein [Flavobacteriales bacterium],386,0.0
+Query_48925,gb|MBC8421916.1| hypothetical protein [Pelagibacteraceae bacterium],383,0.0
+Query_48925,gb|OUW11952.1| MAG: hypothetical protein CBD26_00290 [Candidatus Pelagibacter sp. TMED166],381,0.0
+Query_48925,gb|MBT4207931.1| hypothetical protein [Candidatus Woesearchaeota archaeon] >gb|MBT6128828.1| hypothetical protein [Candidatus Marinimicrobia bacterium] >gb|MBT7556261.1| hypothetical protein [Candidatus Woesearchaeota archaeon],382,0.0
+Query_48925,gb|MBC8428359.1| hypothetical protein [bacterium],376,0.0
+Query_48925,gb|MBT6010921.1| hypothetical protein [Candidatus Marinimicrobia bacterium],356,0.0
+Query_48925,gb|MBT7558076.1| hypothetical protein [Candidatus Woesearchaeota archaeon],359,0.0
+Query_48925,gb|MBK65307.1| hypothetical protein [Euryarchaeota archaeon],349,0.0
+Query_48925,gb|MBT5759639.1| hypothetical protein [Candidatus Marinimicrobia bacterium],355,0.0
+Query_48925,tpg|HIK66664.1| hypothetical protein [Flavobacteriales bacterium],333,0.0
+Query_48925,gb|MDP6584196.1| hypothetical protein [Anaerolineales bacterium],333,0.0
+Query_48925,gb|OUW63302.1| MAG: hypothetical protein CBD58_00430 [bacterium TMED198],343,0.0
+Query_48925,gb|MDB2399669.1| hypothetical protein [bacterium],307,0.0
+Query_48925,gb|MBC8147534.1| hypothetical protein [Bacteroidota bacterium],308,0.0
+Query_48925,gb|MBT8327205.1| hypothetical protein [Bacteroidia bacterium],323,0.0
+Query_48925,"emb|CAB4143055.1| Capsid protein, T4-like bacteriophage [uncultured Caudovirales phage]",319,0.0
+Query_48925,gb|MBC8301823.1| hypothetical protein [Pelagibacterales bacterium],316,0.0
+Query_48925,"emb|CAB4155226.1| Capsid protein, T4-like bacteriophage [uncultured Caudovirales phage] >emb|CAB4171138.1| Capsid protein, T4-like bacteriophage [uncultured Caudovirales phage]",307,0.0
+Query_48925,"emb|CAB4160453.1| Capsid protein, T4-like bacteriophage [uncultured Caudovirales phage]",320,0.0
+Query_48925,dbj|GJQ43859.1| MAG: hypothetical protein JETCAE03_33570 [Ignavibacteriaceae bacterium],304,0.0
+Query_48925,gb|MDA7616756.1| hypothetical protein [bacterium],303,0.0
+Query_48925,gb|MDB4343576.1| hypothetical protein [Schleiferiaceae bacterium] >gb|MDB4617085.1| hypothetical protein [Verrucomicrobiales bacterium],293,0.0
+Query_48925,gb|MDB0041571.1| hypothetical protein [bacterium],293,0.0
+Query_48925,gb|MDB4452881.1| hypothetical protein [bacterium],293,0.0
+Query_48925,"gb|KKQ97579.1| MAG: hypothetical protein UT24_C0046G0011, partial [Candidatus Woesebacteria bacterium GW2011_GWB1_39_12]",294,0.0
+Query_48925,gb|MBC8428102.1| hypothetical protein [Candidatus Pelagibacter sp.],313,0.0
+Query_48925,gb|MAO24204.1| hypothetical protein [Phycisphaerae bacterium],295,0.0
+Query_48925,gb|MAG25984.1| hypothetical protein [Candidatus Pacearchaeota archaeon],312,0.0
+Query_48925,"emb|CAB4143630.1| Capsid protein, T4-like bacteriophage [uncultured Caudovirales phage]",301,0.0
+Query_48925,gb|MDB9847737.1| hypothetical protein [bacterium],300,0.0
+Query_48925,gb|MDC0539976.1| hypothetical protein [bacterium],301,0.0
+Query_48925,gb|MDB4339327.1| hypothetical protein [bacterium],294,0.0
+Query_48925,gb|MDC3257996.1| hypothetical protein [Flavobacteriales bacterium],303,0.0
+Query_48925,gb|MDB4378168.1| hypothetical protein [bacterium],300,0.0
+Query_48925,dbj|BAR35369.1| major capsid protein [uncultured Mediterranean phage uvMED],299,0.0
+Query_48925,gb|MDA7492380.1| hypothetical protein [bacterium],298,0.0
+Query_48925,gb|MDB4343413.1| hypothetical protein [bacterium],296,0.0
+Query_48925,gb|MBC8427947.1| hypothetical protein [Candidatus Pelagibacter sp.],311,0.0
+Query_48925,gb|MDB4344157.1| hypothetical protein [bacterium] >gb|MDB4346187.1| hypothetical protein [bacterium],303,0.0
+Query_48925,gb|MDA8959220.1| hypothetical protein [bacterium],298,0.0
+Query_48925,gb|MDB4549425.1| hypothetical protein [bacterium],295,0.0
+Query_48925,emb|CAB4124906.1| major capsid protein [uncultured Caudovirales phage],300,0.0
+Query_48925,gb|MCP4252981.1| hypothetical protein [Candidatus Scalindua sp.] >gb|MCP5064291.1| hypothetical protein [Ignavibacteriota bacterium],286,0.0
+Query_48925,gb|MDB4344612.1| hypothetical protein [bacterium],297,0.0

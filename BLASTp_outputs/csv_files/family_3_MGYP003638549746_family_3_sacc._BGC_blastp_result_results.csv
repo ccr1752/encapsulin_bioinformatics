@@ -1,0 +1,51 @@
+Query,Subject,Identity,E-value
+Query_28413,gb|MDB3870587.1| hypothetical protein [bacterium],281,0.0
+Query_28413,gb|NBO36255.1| hypothetical protein [bacterium],278,0.0
+Query_28413,gb|MDA9016626.1| hypothetical protein [bacterium],275,0.0
+Query_28413,gb|NBP66205.1| hypothetical protein [Bacteroidota bacterium],278,0.0
+Query_28413,gb|MDA9279970.1| hypothetical protein [bacterium] >gb|MDB0072685.1| hypothetical protein [bacterium] >gb|MDB4234945.1| hypothetical protein [bacterium] >gb|MDB4351850.1| hypothetical protein [Porticoccaceae bacterium] >gb|MDB9801280.1| hypothetical protein [Flavobacteriaceae bacterium],271,0.0
+Query_28413,gb|MDB4277955.1| hypothetical protein [Gammaproteobacteria bacterium],271,0.0
+Query_28413,gb|NBW14742.1| hypothetical protein [Caulobacteraceae bacterium],264,0.0
+Query_28413,gb|MCF8340159.1| hypothetical protein [Chitinophagaceae bacterium],260,0.0
+Query_28413,"emb|CAB4130272.1| Capsid protein, T4-like bacteriophage [uncultured Caudovirales phage]",274,0.0
+Query_28413,gb|MBT5286032.1| hypothetical protein [Euryarchaeota archaeon],278,0.0
+Query_28413,gb|NBP57842.1| hypothetical protein [Candidatus Elulimicrobium humile],263,0.0
+Query_28413,gb|MDB4326347.1| hypothetical protein [bacterium],246,1.01909e-173
+Query_28413,gb|MDB4335487.1| hypothetical protein [bacterium],242,4.64134e-171
+Query_28413,gb|MDP6584787.1| hypothetical protein [Anaerolineales bacterium],242,5.19742e-171
+Query_28413,gb|MCH9716456.1| hypothetical protein [Gammaproteobacteria bacterium],244,5.79517e-171
+Query_28413,gb|NDD85926.1| hypothetical protein [bacterium],246,6.23939e-171
+Query_28413,gb|MCX8483122.1| hypothetical protein [Crocinitomicaceae bacterium],236,4.25776e-169
+Query_28413,gb|TXG83744.1| MAG: hypothetical protein E6R13_03625 [Spirochaetota bacterium],238,9.63282e-165
+Query_28413,gb|MAH42247.1| hypothetical protein [archaeon],238,7.7968e-162
+Query_28413,gb|MBO6252715.1| hypothetical protein [Bacteroidaceae bacterium],231,1.96677e-160
+Query_28413,tpg|DAX38359.1| MAG TPA: Major capsid protein [Caudoviricetes sp.],226,1.34381e-157
+Query_28413,gb|MBR6515511.1| hypothetical protein [Bacilli bacterium],224,8.37161e-156
+Query_28413,tpg|DAU33906.1| MAG TPA: Major capsid protein [Caudoviricetes sp.],235,1.41055e-155
+Query_28413,tpg|DAP99842.1| MAG TPA: Major capsid protein [Ackermannviridae sp.],228,2.68156e-155
+Query_28413,tpg|DAK97931.1| MAG TPA: Major capsid protein [Ackermannviridae sp.],221,7.41266e-153
+Query_28413,tpg|DAK83572.1| MAG TPA: Major capsid protein [Caudoviricetes sp.],221,7.99787e-153
+Query_28413,tpg|DAK15741.1| MAG TPA: Major capsid protein [Ackermannviridae sp.],221,8.62362e-153
+Query_28413,tpg|DAS65285.1| MAG TPA: Major capsid protein [Ackermannviridae sp.],221,1.23364e-152
+Query_28413,gb|UWF79194.1| MAG: Major capsid protein [Bacteriophage sp.] >gb|UWF82290.1| MAG: Major capsid protein [Bacteriophage sp.],217,1.25179e-149
+Query_28413,gb|UWG15063.1| MAG: Major capsid protein [Bacteriophage sp.],217,1.25179e-149
+Query_28413,gb|UVY03317.1| MAG: Major capsid protein [Bacteriophage sp.],217,1.27925e-149
+Query_28413,gb|UWI34644.1| MAG: Major capsid protein [Bacteriophage sp.],217,1.69623e-149
+Query_28413,gb|UWD58173.1| MAG: Major capsid protein [Bacteriophage sp.] >tpg|DAF43695.1| MAG TPA: Major capsid protein [Myoviridae sp. ctNQV2],217,1.75235e-149
+Query_28413,gb|MBP3630029.1| hypothetical protein [Clostridia bacterium],218,2.19779e-149
+Query_28413,tpg|DAD66469.1| MAG TPA: Major capsid protein [Myoviridae sp. ctPuP5],217,4.31274e-149
+Query_28413,gb|UVX33277.1| MAG: Major capsid protein Gp23 [Bacteriophage sp.],224,1.13275e-148
+Query_28413,gb|MBP5456851.1| hypothetical protein [Paludibacteraceae bacterium],215,1.28337e-148
+Query_28413,gb|MBO5958099.1| hypothetical protein [Bacteroidales bacterium],219,1.36998e-148
+Query_28413,gb|UVM93612.1| MAG: major capsid protein [Bacteriophage sp.],216,3.46301e-148
+Query_28413,tpg|DAK04435.1| MAG TPA: Major capsid protein [Bacteriophage sp.] >tpg|DAP37035.1| MAG TPA: Major capsid protein [Ackermannviridae sp.] >tpg|DAR64425.1| MAG TPA: Major capsid protein [Caudoviricetes sp.] >tpg|DAW74763.1| MAG TPA: Major capsid protein [Ackermannviridae sp.],214,8.09442e-148
+Query_28413,tpg|DAL46814.1| MAG TPA_asm: Major capsid protein [Caudoviricetes sp.],213,1.23443e-147
+Query_28413,gb|MCK9543824.1| hypothetical protein [Novosphingobium sp.],211,1.55439e-147
+Query_28413,gb|MBP5458055.1| hypothetical protein [Paludibacteraceae bacterium],217,3.72437e-147
+Query_28413,tpg|DAJ18336.1| MAG TPA: Major capsid protein [Myoviridae sp. ctQ2H14],210,4.12724e-147
+Query_28413,tpg|DAH50297.1| MAG TPA: Major capsid protein [Caudoviricetes sp.],216,8.44874e-146
+Query_28413,gb|MBP5724619.1| hypothetical protein [Bacteroidales bacterium],207,4.92118e-145
+Query_28413,tpg|DAE37018.1| MAG TPA: Major capsid protein [Bacteriophage sp.],211,1.26848e-144
+Query_28413,gb|MBQ1799595.1| hypothetical protein [Prevotella sp.],216,1.39616e-144
+Query_28413,gb|MDE5889176.1| hypothetical protein [Bacilli bacterium],208,4.09184e-143
+Query_28413,gb|MDA3780506.1| hypothetical protein [Bacteroidales bacterium],196,2.06595e-141

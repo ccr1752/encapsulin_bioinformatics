@@ -1,0 +1,51 @@
+Query,Subject,Identity,E-value
+Query_80649,gb|OUW11952.1| MAG: hypothetical protein CBD26_00290 [Candidatus Pelagibacter sp. TMED166],450,0.0
+Query_80649,gb|MDP7366798.1| hypothetical protein [Candidatus Paceibacterota bacterium],425,0.0
+Query_80649,gb|MAR21685.1| hypothetical protein [Flavobacteriales bacterium],392,0.0
+Query_80649,gb|MDP6249861.1| hypothetical protein [Candidatus Paceibacterota bacterium],403,0.0
+Query_80649,gb|MAR20817.1| hypothetical protein [Flavobacteriales bacterium],395,0.0
+Query_80649,gb|MAG26832.1| hypothetical protein [Candidatus Pacearchaeota archaeon],380,0.0
+Query_80649,gb|MDA7495874.1| hypothetical protein [bacterium],382,0.0
+Query_80649,gb|MBT4935834.1| hypothetical protein [Candidatus Woesearchaeota archaeon],369,0.0
+Query_80649,gb|MBC8421916.1| hypothetical protein [Pelagibacteraceae bacterium],380,0.0
+Query_80649,gb|MBT4207931.1| hypothetical protein [Candidatus Woesearchaeota archaeon] >gb|MBT6128828.1| hypothetical protein [Candidatus Marinimicrobia bacterium] >gb|MBT7556261.1| hypothetical protein [Candidatus Woesearchaeota archaeon],381,0.0
+Query_80649,gb|MBC8428359.1| hypothetical protein [bacterium],367,0.0
+Query_80649,gb|MBT7558076.1| hypothetical protein [Candidatus Woesearchaeota archaeon],354,0.0
+Query_80649,gb|MBK65307.1| hypothetical protein [Euryarchaeota archaeon],354,0.0
+Query_80649,gb|MBT6010921.1| hypothetical protein [Candidatus Marinimicrobia bacterium],344,0.0
+Query_80649,gb|MBT5759639.1| hypothetical protein [Candidatus Marinimicrobia bacterium],357,0.0
+Query_80649,gb|MDP6584196.1| hypothetical protein [Anaerolineales bacterium],342,0.0
+Query_80649,tpg|HIK66664.1| hypothetical protein [Flavobacteriales bacterium],340,0.0
+Query_80649,gb|OUW63302.1| MAG: hypothetical protein CBD58_00430 [bacterium TMED198],347,0.0
+Query_80649,gb|MBC8147534.1| hypothetical protein [Bacteroidota bacterium],316,0.0
+Query_80649,gb|MBC8301823.1| hypothetical protein [Pelagibacterales bacterium],320,0.0
+Query_80649,gb|MDB2399669.1| hypothetical protein [bacterium],313,0.0
+Query_80649,gb|MBT8327205.1| hypothetical protein [Bacteroidia bacterium],314,0.0
+Query_80649,gb|MAG25984.1| hypothetical protein [Candidatus Pacearchaeota archaeon],315,0.0
+Query_80649,dbj|GJQ43859.1| MAG: hypothetical protein JETCAE03_33570 [Ignavibacteriaceae bacterium],313,0.0
+Query_80649,"gb|KKQ97579.1| MAG: hypothetical protein UT24_C0046G0011, partial [Candidatus Woesebacteria bacterium GW2011_GWB1_39_12]",294,0.0
+Query_80649,gb|MBC8428102.1| hypothetical protein [Candidatus Pelagibacter sp.],316,0.0
+Query_80649,"emb|CAB4155226.1| Capsid protein, T4-like bacteriophage [uncultured Caudovirales phage] >emb|CAB4171138.1| Capsid protein, T4-like bacteriophage [uncultured Caudovirales phage]",301,0.0
+Query_80649,"emb|CAB4143055.1| Capsid protein, T4-like bacteriophage [uncultured Caudovirales phage]",304,0.0
+Query_80649,emb|CAB4124906.1| major capsid protein [uncultured Caudovirales phage],300,0.0
+Query_80649,gb|MDB4452881.1| hypothetical protein [bacterium],294,0.0
+Query_80649,gb|MDB0041571.1| hypothetical protein [bacterium],296,0.0
+Query_80649,gb|MDB4549425.1| hypothetical protein [bacterium],306,0.0
+Query_80649,gb|MDB4343413.1| hypothetical protein [bacterium],298,0.0
+Query_80649,"emb|CAB4143630.1| Capsid protein, T4-like bacteriophage [uncultured Caudovirales phage]",295,0.0
+Query_80649,gb|MDA8959220.1| hypothetical protein [bacterium],290,0.0
+Query_80649,gb|MDA7616756.1| hypothetical protein [bacterium],289,0.0
+Query_80649,gb|MDB4232113.1| hypothetical protein [Candidatus Pelagibacter sp.],301,0.0
+Query_80649,"emb|CAB4160453.1| Capsid protein, T4-like bacteriophage [uncultured Caudovirales phage]",304,0.0
+Query_80649,gb|MDC0539976.1| hypothetical protein [bacterium],300,0.0
+Query_80649,gb|MAO24204.1| hypothetical protein [Phycisphaerae bacterium],291,0.0
+Query_80649,gb|MDB4378168.1| hypothetical protein [bacterium],298,0.0
+Query_80649,gb|MDC3257996.1| hypothetical protein [Flavobacteriales bacterium],296,0.0
+Query_80649,gb|OVE74124.1| hypothetical protein BVX94_01520 [bacterium B17],290,0.0
+Query_80649,gb|MDB4343576.1| hypothetical protein [Schleiferiaceae bacterium] >gb|MDB4617085.1| hypothetical protein [Verrucomicrobiales bacterium],281,0.0
+Query_80649,gb|MDA7492380.1| hypothetical protein [bacterium],288,0.0
+Query_80649,gb|MCP4252981.1| hypothetical protein [Candidatus Scalindua sp.] >gb|MCP5064291.1| hypothetical protein [Ignavibacteriota bacterium],287,0.0
+Query_80649,gb|MDB4571694.1| hypothetical protein [Akkermansiaceae bacterium],292,1.16759e-180
+Query_80649,gb|MDB4489630.1| hypothetical protein [bacterium],293,5.33547e-180
+Query_80649,gb|MDB9992678.1| hypothetical protein [bacterium],287,4.51126e-179
+Query_80649,gb|MDA8685621.1| hypothetical protein [Robiginitalea sp.],299,4.76004e-179

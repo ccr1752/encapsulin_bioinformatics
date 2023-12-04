@@ -1,0 +1,51 @@
+Query,Subject,Identity,E-value
+Query_122759,gb|MAR57934.1| hypothetical protein [Rickettsiales bacterium],259,0.0
+Query_122759,gb|MDA9949240.1| hypothetical protein [Paracoccaceae bacterium],238,7.06184e-176
+Query_122759,gb|QGZ17669.1| capsid protein [Pelagibacter phage HTVC023P],236,1.37644e-174
+Query_122759,gb|MDP6770587.1| hypothetical protein [Anaerolineales bacterium],236,2.28794e-174
+Query_122759,tpg|HHZ94883.1| hypothetical protein [Flavobacteriales bacterium],234,2.80065e-174
+Query_122759,gb|MAL45606.1| hypothetical protein [Hyphomonas sp.],240,1.12091e-173
+Query_122759,gb|MBT8233777.1| hypothetical protein [Bacteroidia bacterium],236,1.99287e-172
+Query_122759,gb|NND23306.1| hypothetical protein [Acidimicrobiia bacterium],231,1.68849e-171
+Query_122759,gb|MAJ58179.1| hypothetical protein [Candidatus Pelagibacter sp.],236,1.49082e-170
+Query_122759,dbj|GDX17577.1| hypothetical protein LBMAG05_08730 [Actinomycetes bacterium],229,8.25838e-170
+Query_122759,gb|MCL2923695.1| hypothetical protein [Trichodesmium sp. MAG_R04],229,1.1095e-168
+Query_122759,gb|MDB9741884.1| hypothetical protein [Akkermansiaceae bacterium],228,1.26414e-168
+Query_122759,gb|MDB3947259.1| hypothetical protein [Candidatus Pelagibacter sp.],231,1.27084e-168
+Query_122759,gb|MBX0310820.1| hypothetical protein [Sulfurihydrogenibium sp.],236,3.30788e-168
+Query_122759,gb|MBC40634.1| hypothetical protein [Pusillimonas sp.],225,5.55454e-168
+Query_122759,gb|MBP04334.1| hypothetical protein [Euryarchaeota archaeon],228,8.70462e-168
+Query_122759,gb|MBC8408997.1| Mu-like prophage major head subunit gpT family protein [Paracoccaceae bacterium],230,8.83869e-168
+Query_122759,gb|MDC1426601.1| Mu-like prophage major head subunit gpT family protein [Gammaproteobacteria bacterium],226,2.2543e-166
+Query_122759,gb|MDC3263756.1| hypothetical protein [Porticoccaceae bacterium],229,2.3996e-166
+Query_122759,dbj|BCV05835.1| MAG: hypothetical protein CM15mV118_310 [uncultured marine virus],232,2.92274e-166
+Query_122759,tpg|HCT54805.1| hypothetical protein [Balneola sp.],226,5.24083e-166
+Query_122759,gb|ASF00462.1| hypothetical protein [uncultured virus],229,1.31123e-165
+Query_122759,dbj|BCV04387.1| MAG: hypothetical protein CM15mV85_110 [uncultured marine virus],228,2.32551e-165
+Query_122759,gb|NBW11802.1| hypothetical protein [Caulobacteraceae bacterium],227,4.72489e-165
+Query_122759,tpg|HBR55300.1| hypothetical protein [Flavobacteriaceae bacterium],225,2.79642e-164
+Query_122759,gb|NDG31858.1| hypothetical protein [bacterium],227,2.9123e-164
+Query_122759,gb|MAW12599.1| hypothetical protein [Paracoccaceae bacterium],230,3.43247e-164
+Query_122759,gb|WJZ48059.1| major capsid protein [Phage DSL-LC04],223,3.34096e-163
+Query_122759,gb|NBU34703.1| hypothetical protein [bacterium] >gb|NBW16579.1| hypothetical protein [Caulobacteraceae bacterium] >gb|NDG19662.1| hypothetical protein [Betaproteobacteria bacterium],225,3.39939e-163
+Query_122759,gb|KPK69792.1| MAG: hypothetical protein AMJ84_08855 [Acidithiobacillales bacterium SM23_46],221,5.28556e-163
+Query_122759,gb|MDC3331516.1| hypothetical protein [Candidatus Pelagibacter sp.],227,4.59581e-162
+Query_122759,gb|MDB4556911.1| hypothetical protein [bacterium],221,5.25804e-162
+Query_122759,gb|MBM3337023.1| hypothetical protein [Betaproteobacteria bacterium],220,5.35759e-162
+Query_122759,ref|WP_273073353.1| Mu-like prophage major head subunit gpT family protein [Marinobacter sp.] >gb|MAK52314.1| hypothetical protein [Marinobacter sp.],222,8.99384e-162
+Query_122759,gb|MBO48275.1| hypothetical protein [Gammaproteobacteria bacterium],223,1.69778e-161
+Query_122759,gb|NBP70357.1| hypothetical protein [Cytophagia bacterium],225,2.35095e-161
+Query_122759,gb|MDA1210213.1| Mu-like prophage major head subunit gpT family protein [Bacteroidota bacterium],216,3.47115e-161
+Query_122759,gb|NBT76417.1| hypothetical protein [Betaproteobacteria bacterium],218,4.1947e-161
+Query_122759,gb|MAR68824.1| hypothetical protein [Crocinitomicaceae bacterium],220,4.50085e-161
+Query_122759,gb|MDB4817064.1| hypothetical protein [bacterium],220,1.13846e-160
+Query_122759,gb|MBT5680611.1| hypothetical protein [Gammaproteobacteria bacterium],220,1.95336e-160
+Query_122759,gb|MCH2524679.1| hypothetical protein [Dehalococcoidia bacterium],224,2.76481e-160
+Query_122759,gb|MAJ58459.1| hypothetical protein [Candidatus Pelagibacter sp.],221,7.29444e-160
+Query_122759,gb|MAL09454.1| hypothetical protein [Maricaulis sp.],217,1.02123e-159
+Query_122759,gb|MAU24739.1| hypothetical protein [Chloroflexota bacterium],222,1.8539e-159
+Query_122759,gb|RPJ57083.1| MAG: hypothetical protein EHM12_09570 [Dehalococcoidia bacterium],216,3.1502e-159
+Query_122759,gb|MCJ7571270.1| phage major capsid protein [Candidatus Thermoplasmatota archaeon],225,3.18075e-159
+Query_122759,gb|MBO02908.1| hypothetical protein [Candidatus Marinimicrobia bacterium] >gb|MBO03079.1| hypothetical protein [Candidatus Marinimicrobia bacterium],213,7.0979e-159
+Query_122759,gb|MDB4352334.1| hypothetical protein [Porticoccaceae bacterium] >gb|MDB4676149.1| hypothetical protein [Flavobacteriales bacterium] >gb|MDB9910570.1| hypothetical protein [Flavobacteriaceae bacterium],221,1.48575e-158
+Query_122759,emb|CAB4155038.1| hypothetical protein UFOVP652_64 [uncultured Caudovirales phage] >emb|CAB5224368.1| hypothetical protein UFOVP734_60 [uncultured Caudovirales phage],218,1.59642e-158

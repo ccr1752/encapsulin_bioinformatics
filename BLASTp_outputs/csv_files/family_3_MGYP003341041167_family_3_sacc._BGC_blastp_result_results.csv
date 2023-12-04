@@ -1,0 +1,51 @@
+Query,Subject,Identity,E-value
+Query_64019,gb|MCH2516315.1| ATP-binding protein [Dehalococcoidia bacterium],354,0.0
+Query_64019,gb|MAE55355.1| ATP-binding protein [Porticoccaceae bacterium],275,0.0
+Query_64019,gb|NDB57239.1| ATP-binding protein [bacterium],264,0.0
+Query_64019,dbj|BAR30797.1| major capsid protein [uncultured Mediterranean phage uvMED],266,0.0
+Query_64019,gb|MAJ05106.1| ATP-binding protein [Marinovum sp.],268,0.0
+Query_64019,emb|CAB4162870.1| major capsid protein [uncultured Caudovirales phage],265,5.28085e-180
+Query_64019,emb|CAB4140618.1| major capsid protein [uncultured Caudovirales phage],269,6.14208e-180
+Query_64019,gb|MDB4809632.1| ATP-binding protein [bacterium],262,6.66888e-180
+Query_64019,gb|MDB4342512.1| ATP-binding protein [bacterium],262,8.95642e-180
+Query_64019,gb|ANS05039.1| major capsid protein [uncultured Mediterranean phage],259,1.40574e-179
+Query_64019,gb|MDA9585246.1| hypothetical protein [Candidatus Pelagibacter sp.],261,2.46893e-179
+Query_64019,ref|YP_007674500.1| major head protein [Synechococcus phage S-SKS1] >gb|AGH31648.1| major capsid protein [Synechococcus phage S-SKS1],264,4.43298e-179
+Query_64019,emb|CAB4131282.1| major capsid protein [uncultured Caudovirales phage],272,1.60228e-178
+Query_64019,gb|AMQ65921.1| precursor of major head subunit [Stenotrophomonas phage vB_SmaS-DLP_6],262,1.79624e-178
+Query_64019,gb|MAB91693.1| ATP-binding protein [Planctomycetota bacterium],264,2.42037e-178
+Query_64019,gb|QMP83664.1| MAG: hypothetical protein [Caudoviricetes sp.],262,3.57853e-178
+Query_64019,gb|MBC8429938.1| ATP-binding protein [Pelagibacteraceae bacterium],263,7.78004e-178
+Query_64019,emb|CAB4142774.1| major capsid protein [uncultured Caudovirales phage],264,1.07814e-177
+Query_64019,gb|MDB4335765.1| ATP-binding protein [bacterium],259,1.37054e-177
+Query_64019,gb|QMP83391.1| MAG: hypothetical protein [Caudoviricetes sp.],261,2.56024e-177
+Query_64019,gb|MBC8429790.1| ATP-binding protein [Pelagibacteraceae bacterium],257,2.63172e-177
+Query_64019,gb|MDA7798446.1| ATP-binding protein [bacterium],258,3.00886e-177
+Query_64019,gb|NBW41853.1| ATP-binding protein [bacterium],258,2.39978e-176
+Query_64019,gb|NCV18703.1| ATP-binding protein [Rhodobacterales bacterium] >gb|NCX70003.1| ATP-binding protein [Paracoccaceae bacterium] >gb|NCX90462.1| ATP-binding protein [Paracoccaceae bacterium],262,6.89454e-176
+Query_64019,ref|YP_004324201.1| major head protein [Synechococcus phage S-SSM7] >gb|ADO98214.1| precursor of major head subunit [Synechococcus phage S-SSM7] >gb|AGH07461.1| hypothetical protein CYVG_00017 [Cyanophage S-SSM6a],264,1.11763e-175
+Query_64019,gb|MDB4631236.1| hypothetical protein [Pseudomonadales bacterium],265,1.1641e-175
+Query_64019,gb|MAT09137.1| ATP-binding protein [Chloroflexota bacterium],262,1.53066e-175
+Query_64019,gb|NBP03141.1| ATP-binding protein [Pseudomonadota bacterium],264,2.77258e-175
+Query_64019,gb|OUW61382.1| MAG: ATP-binding protein [Candidatus Pelagibacter sp. TMED203],251,3.63849e-175
+Query_64019,emb|CAB4222747.1| major capsid protein [uncultured Caudovirales phage],261,1.10215e-174
+Query_64019,gb|QOI69000.1| putative major capsid protein [Pelagibacter phage Mosig EXVC030M],260,1.26767e-174
+Query_64019,gb|WLW37755.1| major capsid protein [Synechococcus phage S-8S55],259,1.46956e-174
+Query_64019,gb|PCH60244.1| MAG: ATP-binding protein [Candidatus Marinimicrobia bacterium],256,1.53627e-174
+Query_64019,gb|MBT3281397.1| ATP-binding protein [Cryomorphaceae bacterium],262,2.29624e-174
+Query_64019,gb|MDW7642054.1| hypothetical protein [Nitrosarchaeum sp.],257,2.6188e-174
+Query_64019,gb|WJZ47986.1| major capsid protein [Synechococcus phage DSL-LC03],255,3.21606e-174
+Query_64019,gb|MDA9761289.1| ATP-binding protein [bacterium],265,3.46897e-174
+Query_64019,gb|MDB4348711.1| ATP-binding protein [bacterium],261,3.60339e-174
+Query_64019,gb|MDB4681347.1| ATP-binding protein [bacterium],255,3.87834e-174
+Query_64019,tpg|HIK68141.1| ATP-binding protein [Flavobacteriales bacterium],258,4.86504e-174
+Query_64019,emb|CAB4170702.1| major capsid protein [uncultured Caudovirales phage] >emb|CAB4176212.1| major capsid protein [uncultured Caudovirales phage] >emb|CAB4181620.1| major capsid protein [uncultured Caudovirales phage] >emb|CAB4189779.1| major capsid protein [uncultured Caudovirales phage] >emb|CAB4210355.1| major capsid protein [uncultured Caudovirales phage],266,5.62187e-174
+Query_64019,gb|WDS61245.1| precursor of major head subunit [Synechococcus phage S-BM3],254,6.14826e-174
+Query_64019,gb|WLW37596.1| major capsid protein [Synechococcus phage S-8S53],258,6.85065e-174
+Query_64019,emb|CAB4182182.1| major capsid protein [uncultured Caudovirales phage],269,7.16558e-174
+Query_64019,ref|YP_214367.1| precursor of major head subunit [Prochlorococcus phage P-SSM2] >gb|AAX44513.1| precursor of major head subunit [Prochlorococcus phage P-SSM2],262,9.74768e-174
+Query_64019,ref|YP_004322275.1| major head protein [Synechococcus phage S-SM2] >gb|ADO97461.1| precursor of major head subunit [Synechococcus phage S-SM2],262,2.0811e-173
+Query_64019,gb|WLW38015.1| major capsid protein [Synechococcus phage S-8S56],257,2.15558e-173
+Query_64019,gb|MDP7368001.1| ATP-binding protein [Candidatus Paceibacterota bacterium],258,3.34796e-173
+Query_64019,gb|ACY76014.1| major capsid [Prochlorococcus phage P-SSM2] >gb|AGN12453.1| major capsid protein [Prochlorococcus phage P-SSM5],261,3.37039e-173
+Query_64019,gb|MDA8915495.1| ATP-binding protein [bacterium] >gb|MDB2561956.1| hypothetical protein [Amylibacter sp.],262,5.5051e-173

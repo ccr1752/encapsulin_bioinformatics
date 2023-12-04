@@ -1,0 +1,51 @@
+Query,Subject,Identity,E-value
+Query_117655,ref|WP_258802633.1| phage major capsid protein [Pseudarthrobacter sp. NS4],332,0.0
+Query_117655,ref|WP_235010673.1| phage major capsid protein [Arthrobacter sp. SLBN-112] >gb|TQJ41513.1| HK97 family phage major capsid protein [Arthrobacter sp. SLBN-112],329,0.0
+Query_117655,gb|TQJ67162.1| HK97 family phage major capsid protein [Arthrobacter sp. SLBN-100],325,0.0
+Query_117655,ref|WP_160142444.1| phage major capsid protein [Arthrobacter sp. SLBN-100],324,0.0
+Query_117655,gb|MDP9692703.1| HK97 family phage major capsid protein [Arthrobacter globiformis],302,0.0
+Query_117655,gb|PVZ56693.1| phage major capsid protein [Arthrobacter sp. H-02-3],304,0.0
+Query_117655,ref|WP_161958222.1| phage major capsid protein [Arthrobacter sp. H-02-3],303,0.0
+Query_117655,ref|WP_104061121.1| phage major capsid protein [Arthrobacter sp. 4R501],287,0.0
+Query_117655,ref|WP_282377974.1| phage major capsid protein [Arthrobacter sp. AL12] >gb|MDI3210495.1| phage major capsid protein [Arthrobacter sp. AL12],269,2.91541e-178
+Query_117655,ref|WP_286794271.1| phage major capsid protein [Microbacterium sp. UBA3394],256,8.68292e-175
+Query_117655,gb|MAB81695.1| phage major capsid protein [Planctomycetota bacterium] >gb|MAM53576.1| phage major capsid protein [Microbacterium sp.],256,1.42194e-174
+Query_117655,ref|WP_120692224.1| phage major capsid protein [Pseudarthrobacter phenanthrenivorans] >gb|RKO24500.1| phage major capsid protein [Pseudarthrobacter phenanthrenivorans],264,1.91433e-168
+Query_117655,ref|WP_248762684.1| phage major capsid protein [Pseudarthrobacter sp. SSS035],254,1.10975e-167
+Query_117655,ref|WP_304695568.1| phage major capsid protein [Microcella sp.] >gb|MDO8338434.1| phage major capsid protein [Microcella sp.],233,1.91296e-157
+Query_117655,ref|WP_200555608.1| phage major capsid protein [Lacisediminihabitans changchengi] >gb|MBK4347245.1| phage major capsid protein [Lacisediminihabitans changchengi],241,5.29717e-157
+Query_117655,ref|WP_230444085.1| phage major capsid protein [Nocardioides okcheonensis] >gb|UFN46077.1| phage major capsid protein [Nocardioides okcheonensis],243,4.88672e-155
+Query_117655,ref|WP_290809068.1| phage major capsid protein [Herbiconiux sp.] >gb|TAJ46283.1| MAG: phage major capsid protein [Herbiconiux sp.],236,8.84675e-155
+Query_117655,ref|WP_116411568.1| phage major capsid protein [Subtercola boreus] >gb|RFA14514.1| hypothetical protein B7R22_09850 [Subtercola boreus],222,1.03876e-154
+Query_117655,"ref|WP_092552615.1| phage major capsid protein [Herbiconiux ginsengi] >emb|SDZ02418.1| phage major capsid protein, HK97 family [Herbiconiux ginsengi]",227,1.26406e-150
+Query_117655,"ref|WP_089014781.1| phage major capsid protein [Micromonospora inositola] >emb|SCG73938.1| phage major capsid protein, HK97 family [Micromonospora inositola]",239,2.08463e-150
+Query_117655,ref|WP_162959004.1| phage major capsid protein [Micromonospora tulbaghiae],248,1.65433e-143
+Query_117655,gb|AYF26077.1| phage major capsid protein [Micromonospora tulbaghiae],248,4.19371e-143
+Query_117655,ref|WP_128221746.1| phage major capsid protein [Nocardioides yefusunii],220,9.24872e-143
+Query_117655,ref|WP_236811856.1| phage major capsid protein [Arthrobacter sp. FW306-2-2C-D06B] >gb|UKA57514.1| phage major capsid protein [Arthrobacter sp. FW306-2-2C-D06B],241,1.11065e-139
+Query_117655,ref|WP_292712532.1| phage major capsid protein [Microbacterium sp. 67-17] >gb|OJV93734.1| MAG: hypothetical protein BGO47_06730 [Microbacterium sp. 67-17],214,1.43014e-139
+Query_117655,ref|WP_234758146.1| phage major capsid protein [Arthrobacter alkaliphilus],235,1.4337e-136
+Query_117655,gb|UKA64842.1| phage major capsid protein [Arthrobacter sp. FW306-04-A],236,1.99124e-133
+Query_117655,ref|WP_295855036.1| phage major capsid protein [uncultured Microbacterium sp.],220,2.75272e-132
+Query_117655,ref|WP_108931502.1| phage major capsid protein [Agromyces badenianii] >gb|PWC04261.1| phage major capsid protein [Agromyces badenianii],226,1.97001e-127
+Query_117655,ref|WP_239543031.1| phage major capsid protein [Micromonospora terminaliae],210,2.79047e-127
+Query_117655,ref|WP_283287740.1| phage major capsid protein [Microbacterium sp. IEGM 1404] >gb|MDI9891934.1| phage major capsid protein [Microbacterium sp. IEGM 1404],221,4.75284e-127
+Query_117655,ref|WP_163636874.1| phage major capsid protein [Micromonospora terminaliae] >gb|NES30062.1| phage major capsid protein [Micromonospora terminaliae],232,1.70358e-126
+Query_117655,gb|QGL46765.1| phage major capsid protein [Micromonospora terminaliae],232,3.54834e-126
+Query_117655,ref|WP_187090345.1| phage major capsid protein [Nakamurella sp. PAMC28650] >gb|QNK79313.1| phage major capsid protein [Nakamurella sp. PAMC28650],216,1.02903e-125
+Query_117655,gb|MAT18326.1| phage major capsid protein [Leifsonia sp.],221,4.22659e-125
+Query_117655,ref|WP_314456387.1| phage major capsid protein [uncultured Microbacterium sp.],207,5.79679e-124
+Query_117655,ref|WP_176634493.1| phage major capsid protein [Arthrobacter wenxiniae] >gb|NVM94759.1| phage major capsid protein [Arthrobacter wenxiniae],196,3.48375e-114
+Query_117655,ref|WP_284751108.1| phage major capsid protein [Arthrobacter sp. efr-133-R2A-120],192,4.73483e-112
+Query_117655,gb|MDP9459171.1| phage major capsid protein [Actinomycetota bacterium],132,1.61213e-60
+Query_117655,gb|MDP9459231.1| phage major capsid protein [Actinomycetota bacterium],132,8.88036e-60
+Query_117655,gb|MBW3578529.1| phage major capsid protein [Actinomycetota bacterium],137,1.33119e-58
+Query_117655,ref|WP_158895228.1| phage major capsid protein [Amycolatopsis anabasis],122,1.52725e-56
+Query_117655,ref|WP_203175358.1| phage major capsid protein [Micromonospora sp. STR1_7] >gb|MBM0232887.1| phage major capsid protein [Micromonospora sp. STR1_7],122,5.76438e-55
+Query_117655,ref|WP_164383810.1| phage major capsid protein [Streptomyces sp. OM5714] >gb|KAF2778579.1| HK97 family phage major capsid protein [Streptomyces sp. OM5714],154,1.08966e-52
+Query_117655,"ref|WP_177212583.1| phage major capsid protein [Geodermatophilus ruber] >emb|SFK38476.1| phage major capsid protein, HK97 family [Geodermatophilus ruber]",145,1.13601e-50
+Query_117655,gb|MDP9416370.1| phage major capsid protein [Actinomycetota bacterium],113,2.46669e-50
+Query_117655,gb|NPV52644.1| phage major capsid protein [Bacillota bacterium],152,5.68746e-50
+Query_117655,gb|MDQ3678641.1| phage major capsid protein [Actinomycetota bacterium],119,1.67072e-48
+Query_117655,ref|WP_221574654.1| phage major capsid protein [Qipengyuania polymorpha] >gb|MBX7459258.1| phage major capsid protein [Qipengyuania polymorpha],149,5.89783e-48
+Query_117655,"ref|WP_086438384.1| phage major capsid protein [Altererythrobacter xiamenensis] >emb|SMQ74283.1| phage major capsid protein, HK97 family [Altererythrobacter xiamenensis]",154,2.26471e-47

@@ -1,0 +1,51 @@
+Query,Subject,Identity,E-value
+Query_78443,gb|MBL18404.1| hypothetical protein [Flavobacteriaceae bacterium],227,2.93952e-156
+Query_78443,gb|MAH51243.1| hypothetical protein [Candidatus Pacearchaeota archaeon],157,2.2025e-90
+Query_78443,gb|MAG28480.1| hypothetical protein [Candidatus Pacearchaeota archaeon],145,1.71621e-79
+Query_78443,gb|MAG28448.1| hypothetical protein [Candidatus Pacearchaeota archaeon],160,2.39954e-71
+Query_78443,gb|MAH44366.1| hypothetical protein [Candidatus Pacearchaeota archaeon],135,1.41987e-66
+Query_78443,gb|MAG26042.1| hypothetical protein [Candidatus Pacearchaeota archaeon],137,1.13698e-64
+Query_78443,gb|MBL96836.1| hypothetical protein [Legionellales bacterium],131,3.73464e-63
+Query_78443,gb|MAG25968.1| hypothetical protein [Candidatus Pacearchaeota archaeon],128,9.06031e-58
+Query_78443,gb|MAG25183.1| hypothetical protein [Candidatus Pacearchaeota archaeon],132,7.7173e-53
+Query_78443,tpg|HIB01521.1| hypothetical protein [Phycisphaerales bacterium],125,2.52308e-52
+Query_78443,gb|MAG27241.1| hypothetical protein [Candidatus Pacearchaeota archaeon],113,1.40106e-49
+Query_78443,gb|MBT5638136.1| hypothetical protein [Candidatus Peribacter sp.],95,8.33432e-47
+Query_78443,tpg|HAI39630.1| hypothetical protein [Maribacter sp.],88,3.86347e-45
+Query_78443,tpg|HHZ94202.1| hypothetical protein [Flavobacteriales bacterium],108,1.06029e-35
+Query_78443,gb|MAK37548.1| hypothetical protein [Flavobacteriaceae bacterium],112,1.47515e-34
+Query_78443,tpg|HAI43589.1| hypothetical protein [Maribacter sp.],114,4.09971e-34
+Query_78443,tpg|HAF78163.1| hypothetical protein [Maribacter sp.],85,4.63637e-34
+Query_78443,gb|MDA7494501.1| hypothetical protein [bacterium],105,1.41529e-29
+Query_78443,tpg|HIO05223.1| hypothetical protein [Gammaproteobacteria bacterium],110,3.70017e-29
+Query_78443,tpg|HAI36659.1| hypothetical protein [Maribacter sp.],97,6.89604e-29
+Query_78443,gb|MAF24250.1| hypothetical protein [bacterium],103,2.24492e-27
+Query_78443,tpg|HAI36766.1| hypothetical protein [Maribacter sp.],101,2.31808e-27
+Query_78443,gb|MAF24617.1| hypothetical protein [bacterium],99,5.39315e-27
+Query_78443,gb|MCK9596399.1| hypothetical protein [Candidatus Pacearchaeota archaeon],106,2.4888e-25
+Query_78443,gb|UCG92381.1| MAG: hypothetical protein JSV97_01320 [candidate division WOR-3 bacterium],105,3.84261e-25
+Query_78443,gb|ANS05159.1| hypothetical protein [uncultured Mediterranean phage],112,1.44046e-24
+Query_78443,gb|MAG87326.1| hypothetical protein [Flavobacteriaceae bacterium],99,1.60075e-23
+Query_78443,gb|MCH1613959.1| hypothetical protein [Flavobacteriales bacterium],99,1.74757e-23
+Query_78443,gb|QDP62140.1| MAG: hypothetical protein GOVbin1807_139 [Prokaryotic dsDNA virus sp.],100,1.17496e-22
+Query_78443,gb|MBV04279.1| hypothetical protein [Paracoccaceae bacterium],87,2.80092e-21
+Query_78443,gb|QDP63316.1| MAG: hypothetical protein GOVbin703_63 [Prokaryotic dsDNA virus sp.],96,3.04795e-21
+Query_78443,tpg|HAI43962.1| hypothetical protein [Maribacter sp.],96,4.34497e-21
+Query_78443,gb|MDP3986877.1| hypothetical protein [Nanoarchaeota archaeon],92,1.47684e-20
+Query_78443,gb|MBT5637047.1| hypothetical protein [Candidatus Peribacter sp.],106,1.99066e-19
+Query_78443,tpg|HAI41880.1| hypothetical protein [Maribacter sp.],84,7.17599e-19
+Query_78443,tpg|HAI16861.1| hypothetical protein [Xanthomarina gelatinilytica],72,7.3049e-19
+Query_78443,gb|MDB4335857.1| hypothetical protein [bacterium],95,2.4563e-18
+Query_78443,gb|MBP01179.1| hypothetical protein [Rhodospirillaceae bacterium],89,3.31082e-18
+Query_78443,emb|CAI8168337.1| MAG: Uncharacterised protein [Euryarchaeota archaeon],87,5.2483e-18
+Query_78443,gb|OUW10974.1| MAG: hypothetical protein CBD26_03540 [Candidatus Pelagibacter sp. TMED166],93,6.30354e-18
+Query_78443,tpg|HHZ95173.1| hypothetical protein [Flavobacteriales bacterium],79,1.86242e-17
+Query_78443,tpg|HBQ58401.1| hypothetical protein [Balneolaceae bacterium],90,2.83599e-17
+Query_78443,tpg|HAI39195.1| hypothetical protein [Maribacter sp.],68,1.30422e-15
+Query_78443,tpg|HAI42952.1| hypothetical protein [Maribacter sp.],83,4.27587e-15
+Query_78443,gb|QDP51388.1| MAG: hypothetical protein GOVbin630_86 [Prokaryotic dsDNA virus sp.],75,1.18416e-14
+Query_78443,gb|MDP6417487.1| hypothetical protein [Gammaproteobacteria bacterium],54,1.68454e-14
+Query_78443,tpg|HAI37374.1| hypothetical protein [Maribacter sp.],80,1.92906e-14
+Query_78443,tpg|HCT54193.1| hypothetical protein [Balneola sp.],77,1.45637e-13
+Query_78443,gb|MBV03487.1| hypothetical protein [Paracoccaceae bacterium],89,2.83481e-13
+Query_78443,gb|MAK54404.1| hypothetical protein [Pusillimonas sp.],74,4.20328e-12
